@@ -10,3 +10,7 @@
 - Seeding a database
 - Retrieving from database
 - SQL queries and binding
+
+## snippet
+<img width="1374" height="701" alt="image" src="https://github.com/user-attachments/assets/336e9f29-808e-417c-878e-f6723f106c5c" />
+
